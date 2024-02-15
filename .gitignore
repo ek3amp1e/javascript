@@ -5,4 +5,4 @@ node_modules
 # Only apps should have lockfiles
 yarn.lock
 package-lock.json
-br1 c1 (2); br1 c2 (2);
+br1 c1 (2); br1 c2 (2); br1 c3 (2).
