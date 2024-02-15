@@ -1,4 +1,5 @@
 # gitignore br2 c1; br2 c2; br2 c3.
+# gitignore br1 c1; br2 c2; br1 c3. 
 
 node_modules
 
