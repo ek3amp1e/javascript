@@ -1,5 +1,5 @@
 # gitignore br1 c1; br2 c2; br1 c3. 
-br1 c1 (1); br1 c2 (1);  
+br1 c1 (1); br1 c2 (1); br1 c3 (1).  
 node_modules
 
 # Only apps should have lockfiles
